@@ -152,7 +152,7 @@ a %>%
   )
 ```
 
-![Alt text](viz1.png)
+![Alt text](plot1.png)
 
 ## Segunda visualização:
 
