@@ -20,7 +20,7 @@ O código para as visualizações é o aaasssss
 única ressalva fica para o `billing_project_id` que, no caso, contém o
 meu *billing id*.
 
-O objetivo da minha análise foi analisar o comportamento das mortes causadas por agrotóxicos e pesticidas, que podem ser identificadas no SIM. Analisei, mesmo que de forma simples, a evolução temporal e a distribuição das mortes por raça, idade, sexo e região do país. Os resultados são um pouco assustadores. 
+O objetivo da minha análise foi analisar o comportamento das mortes causadas por agrotóxicos e pesticidas, que podem ser identificadas no SIM. Analisei, mesmo que de forma simples, a evolução temporal e a distribuição das mortes por raça, idade, sexo e região do país. Os resultados são interessantes. 
 
 ## Primeira Visualização
 
