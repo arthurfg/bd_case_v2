@@ -24,7 +24,7 @@ O objetivo da minha análise foi analisar o comportamento das mortes causadas po
 
 ## Primeira Visualização
 
-![Alt text](plot1.png)
+![Alt text](plot3.png)
 
 ## Segunda Visualização
 
